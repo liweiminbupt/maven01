@@ -10,6 +10,6 @@ public class TestHelloMaven
 	{
 		HelloMaven hm = new HelloMaven();
 		String str = hm.sayHello("maven");
-		assertEquals(str,"hello : maven");
+		assertEquals(str,"hello: maven");
 	}
 }
